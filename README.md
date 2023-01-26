@@ -5,3 +5,8 @@ da hood script
 
 # script is here
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/divinemanix/voidless/main/voidless.lua", true))
+```
+
+## enjoy
