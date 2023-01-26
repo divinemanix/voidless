@@ -1,4 +1,4 @@
 # voidless
 da hood script
 
-## da hood script made a no knowlodge of lua
+## da hood script made person that has no knowlodge of lua but could be better
