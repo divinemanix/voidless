@@ -6,4 +6,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/divinemanix/voidless/main/pandora.cc.lua",true))()
 ```
 
-## enjoy
+## enjoy (always updated)
