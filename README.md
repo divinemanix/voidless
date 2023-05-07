@@ -6,4 +6,9 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/divinemanix/voidless/main/daddye",true))()
 ```
 
+# universal script
+
+```lua
+loadstring(game:HttpGet("https://github.com/divinemanix/voidless/blob/main/universal.lua",true))()
+```
 ## enjoy (always updated)
